@@ -19,7 +19,7 @@
     </header>
     <div id="content">
       <div id="year-picker">
-        <a href="/">« 2024</a><h1>Booth 2025</h1><a href="/?year=2026">2026 »</a>
+        <a href="/">« 2024</a><h1 id="year-title">Booth 2025</h1><a href="/?year=2026">2026 »</a>
       </div>
       <div>
         <h2>Plot Map</h2>
@@ -37,6 +37,7 @@
       const queryParams = new URLSearchParams(window.location.search);
       const year = queryParams.get('year') ?? 2025;
       document.getElementById('pano-frame').contentWindow.YEAR = year;
+      document.getElementById('year-title').textContent = `Booth ${year}`;
 
       async function setupPlotMap() {
         // Set up SVG
