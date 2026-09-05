@@ -1,0 +1,3262 @@
+{
+  "scenes": [
+    {
+      "id": "0-midway_1",
+      "name": "midway_1",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.6540661743074416,
+        "pitch": 0.005420572938357182,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.880973490549769,
+          "pitch": 0.12029670146041127,
+          "rotation": 0,
+          "target": "1-midway_3"
+        },
+        {
+          "yaw": -0.862190870610835,
+          "pitch": 0.03213278144148113,
+          "rotation": 6.283185307179586,
+          "target": "11-tangled_right"
+        },
+        {
+          "yaw": 1.6811763704834526,
+          "pitch": -0.018695938145048885,
+          "rotation": 0,
+          "target": "52-taylor_left"
+        },
+        {
+          "yaw": 2.785324549135865,
+          "pitch": 0.021773198434443586,
+          "rotation": 0,
+          "target": "13-01dummy"
+        },
+        {
+          "yaw": -1.6658700853115818,
+          "pitch": 0.011541059274154719,
+          "rotation": 0,
+          "target": "13-01dummy"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "1-midway_3": {
+          "yaw": 0.4875264792823515,
+          "pitch": 0.005420572938357182,
+          "fov": 1.4171390229739944
+        },
+        "52-taylor_left": {
+          "yaw": -1.0832735207176485,
+          "pitch": 0.005420572938357182,
+          "fov": 1.4171390229739944
+        },
+        "11-tangled_right": {
+          "yaw": 2.0583264792823517,
+          "pitch": 0.005420572938357182,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "1-midway_3",
+      "name": "midway_3",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.190254398028067,
+        "pitch": -0.05570778357659201,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.6975434012378283,
+          "pitch": 0.1476999814030826,
+          "rotation": 0,
+          "target": "2-midway_4"
+        },
+        {
+          "yaw": 0.8153137823123675,
+          "pitch": 0.04758729550903418,
+          "rotation": 0,
+          "target": "0-midway_1"
+        },
+        {
+          "yaw": 2.571898387142822,
+          "pitch": -0.013226817128721535,
+          "rotation": 0,
+          "target": "13-01dummy"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "2-midway_4": {
+          "yaw": 0.8153137823123675,
+          "pitch": 0.04758729550903418,
+          "fov": 1.4171390229739944
+        },
+        "15-tangled_wicked": {
+          "yaw": 2.3861137823123677,
+          "pitch": 0.04758729550903418,
+          "fov": 1.4171390229739944
+        },
+        "54-impala_taylor": {
+          "yaw": -0.7554862176876325,
+          "pitch": 0.04758729550903418,
+          "fov": 1.4171390229739944
+        },
+        "53-impala_just-dance": {
+          "yaw": -0.7554862176876325,
+          "pitch": 0.04758729550903418,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "2-midway_4",
+      "name": "midway_4",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.5123288643111685,
+        "pitch": 0.007464129208212711,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.6922536169225495,
+          "pitch": 0.16940446974362366,
+          "rotation": 0,
+          "target": "3-midway_5"
+        },
+        {
+          "yaw": 0.5431876428498139,
+          "pitch": 0.05480868995168109,
+          "rotation": 0,
+          "target": "1-midway_3"
+        },
+        {
+          "yaw": -0.5426946389833329,
+          "pitch": 0.008868054958455218,
+          "rotation": 0,
+          "target": "61-wicked"
+        },
+        {
+          "yaw": 1.603038963606748,
+          "pitch": -0.020203356420370966,
+          "rotation": 0,
+          "target": "63-impala"
+        },
+        {
+          "yaw": -1.837712974529202,
+          "pitch": 0.04866748062192805,
+          "rotation": 0,
+          "target": "60-csa"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "3-midway_5": {
+          "yaw": 0.5431876428498139,
+          "pitch": 0.05480868995168109,
+          "fov": 1.4171390229739944
+        },
+        "17-wicked_csa": {
+          "yaw": 2.113987642849814,
+          "pitch": 0.05480868995168109,
+          "fov": 1.4171390229739944
+        },
+        "61-wicked": {
+          "yaw": 2.113987642849814,
+          "pitch": 0.05480868995168109,
+          "fov": 1.4171390229739944
+        },
+        "60-csa": {
+          "yaw": 2.113987642849814,
+          "pitch": 0.05480868995168109,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "3-midway_5",
+      "name": "midway_5",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.351575544441525,
+        "pitch": -0.008437660435795635,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.612602530688097,
+          "pitch": 0.11896804580707254,
+          "rotation": 0,
+          "target": "4-midway_6"
+        },
+        {
+          "yaw": 0.7379807974867916,
+          "pitch": 0.05927490455326989,
+          "rotation": 0,
+          "target": "2-midway_4"
+        },
+        {
+          "yaw": 2.5101162034618696,
+          "pitch": -0.001203859674976826,
+          "rotation": 0,
+          "target": "13-01dummy"
+        },
+        {
+          "yaw": -1.7023497644836674,
+          "pitch": 0.11073416758979171,
+          "rotation": 0,
+          "target": "58-sea-shantie"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "4-midway_6": {
+          "yaw": 0.7379807974867916,
+          "pitch": 0.05927490455326989,
+          "fov": 1.4171390229739944
+        },
+        "49-frog_just-dance": {
+          "yaw": -0.8328192025132084,
+          "pitch": 0.05927490455326989,
+          "fov": 1.4171390229739944
+        },
+        "58-sea-shantie": {
+          "yaw": 2.3087807974867918,
+          "pitch": 0.05927490455326989,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "4-midway_6",
+      "name": "midway_6",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.530339564446905,
+        "pitch": -0.040307846461834274,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.005495535920643,
+          "pitch": 0.1076916422567038,
+          "rotation": 0,
+          "target": "5-midway_7"
+        },
+        {
+          "yaw": 0.35242867695732194,
+          "pitch": 0.06402539503996962,
+          "rotation": 0,
+          "target": "3-midway_5"
+        },
+        {
+          "yaw": -2.4289342170109034,
+          "pitch": 0.07397644140099757,
+          "rotation": 0,
+          "target": "56-2010"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "5-midway_7": {
+          "yaw": 0.35242867695732194,
+          "pitch": 0.06402539503996962,
+          "fov": 1.4171390229739944
+        },
+        "26-sea-shanties_2010": {
+          "yaw": 1.923228676957322,
+          "pitch": 0.06402539503996962,
+          "fov": 1.4171390229739944
+        },
+        "56-2010": {
+          "yaw": 1.923228676957322,
+          "pitch": 0.06402539503996962,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "5-midway_7",
+      "name": "midway_7",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.7836817612344262,
+        "pitch": -0.09532404475688949,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.5514786234892481,
+          "pitch": 0.07027829131603269,
+          "rotation": 0,
+          "target": "6-midway_8"
+        },
+        {
+          "yaw": -1.5773707661203726,
+          "pitch": 0.0798170520426904,
+          "rotation": 0,
+          "target": "4-midway_6"
+        },
+        {
+          "yaw": -2.306598302100312,
+          "pitch": 0.07414370817510019,
+          "rotation": 0,
+          "target": "56-2010"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "6-midway_8": {
+          "yaw": -1.5773707661203726,
+          "pitch": 0.0798170520426904,
+          "fov": 1.4171390229739944
+        },
+        "24-2010_coco": {
+          "yaw": -6.289770766120372,
+          "pitch": 0.0798170520426904,
+          "fov": 1.4171390229739944
+        },
+        "58-2010": {
+          "yaw": -6.289770766120372,
+          "pitch": 0.0798170520426904,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "6-midway_8",
+      "name": "midway_8",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.5157183655787199,
+        "pitch": -0.09272052607165193,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.290129653979779,
+          "pitch": 0.0000753293297837132,
+          "rotation": 0,
+          "target": "7-midway_9"
+        },
+        {
+          "yaw": -1.8123694287661252,
+          "pitch": 0.05111721801371516,
+          "rotation": 0,
+          "target": "5-midway_7"
+        },
+        {
+          "yaw": -2.9389608020707527,
+          "pitch": 0.07488540464801297,
+          "rotation": 0,
+          "target": "13-01dummy"
+        },
+        {
+          "yaw": -0.4489290820590828,
+          "pitch": 0.0038550370283356727,
+          "rotation": 0,
+          "target": "64-mama"
+        },
+        {
+          "yaw": 0.3325785153525196,
+          "pitch": -0.06231888393087637,
+          "rotation": 0,
+          "target": "65-childish"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "7-midway_9": {
+          "yaw": -1.8123694287661252,
+          "pitch": 0.05111721801371516,
+          "fov": 1.4171390229739944
+        },
+        "22-coco_format": {
+          "yaw": -0.2415694287661252,
+          "pitch": 0.05111721801371516,
+          "fov": 1.4171390229739944
+        },
+        "39-childish_mama": {
+          "yaw": -3.3831694287661254,
+          "pitch": 0.05111721801371516,
+          "fov": 1.4171390229739944
+        },
+        "64-mama": {
+          "yaw": -3.3831694287661254,
+          "pitch": 0.05111721801371516,
+          "fov": 1.4171390229739944
+        },
+        "65-childish": {
+          "yaw": -3.3831694287661254,
+          "pitch": 0.05111721801371516,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "7-midway_9",
+      "name": "midway_9",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.3706652392328937,
+        "pitch": -0.07869883513428455,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.3339510345447394,
+          "pitch": 0.0411661774052714,
+          "rotation": 0,
+          "target": "8-midway_10"
+        },
+        {
+          "yaw": -1.9990204536536194,
+          "pitch": 0.03621027174774838,
+          "rotation": 0,
+          "target": "6-midway_8"
+        },
+        {
+          "yaw": 2.4789142410457874,
+          "pitch": 0.05948787549120382,
+          "rotation": 0,
+          "target": "13-01dummy"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "8-midway_10": {
+          "yaw": -1.9990204536536194,
+          "pitch": 0.03621027174774838,
+          "fov": 1.4171390229739944
+        },
+        "41-hadestown_childish_back": {
+          "yaw": -3.5698204536536196,
+          "pitch": 0.03621027174774838,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "8-midway_10",
+      "name": "midway_10",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.1387303741900823,
+        "pitch": -0.0996704664720447,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.9823063719245564,
+          "pitch": 0.035207173837875416,
+          "rotation": 0,
+          "target": "9-midway_11"
+        },
+        {
+          "yaw": -2.21751237278667,
+          "pitch": 0.09539337165487183,
+          "rotation": 0,
+          "target": "7-midway_9"
+        },
+        {
+          "yaw": -0.7476246441618422,
+          "pitch": 0.07993831878372859,
+          "rotation": 0,
+          "target": "13-01dummy"
+        },
+        {
+          "yaw": 3.08527283824265,
+          "pitch": 0.08086998696015968,
+          "rotation": 0,
+          "target": "59-british"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "9-midway_11": {
+          "yaw": -2.21751237278667,
+          "pitch": 0.09539337165487183,
+          "fov": 1.4171390229739944
+        },
+        "31-british_asa": {
+          "yaw": -0.6467123727866702,
+          "pitch": 0.09539337165487183,
+          "fov": 1.4171390229739944
+        },
+        "43-toby-fox_hadestown": {
+          "yaw": -3.7883123727866703,
+          "pitch": 0.09539337165487183,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "9-midway_11",
+      "name": "midway_11",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 0.8151645743420399,
+        "pitch": -0.04619731790717729,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.7869718009316724,
+          "pitch": 0.05383394939200414,
+          "rotation": 0,
+          "target": "10-midway_12"
+        },
+        {
+          "yaw": -2.5042008888782163,
+          "pitch": 0.09280011693447321,
+          "rotation": 0,
+          "target": "8-midway_10"
+        },
+        {
+          "yaw": -0.8505867896659325,
+          "pitch": 0.06648338376009377,
+          "rotation": 0,
+          "target": "37-toby-fox_right"
+        },
+        {
+          "yaw": 2.6202590971785984,
+          "pitch": 0.05358547935709623,
+          "rotation": 0,
+          "target": "55-asa"
+        },
+        {
+          "yaw": -1.3263165030410171,
+          "pitch": 0.09793223838082277,
+          "rotation": 0,
+          "target": "66-toby-fox"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "10-midway_12": {
+          "yaw": -2.5042008888782163,
+          "pitch": 0.09280011693447321,
+          "fov": 1.4171390229739944
+        },
+        "55-asa": {
+          "yaw": -0.9334008888782164,
+          "pitch": 0.09280011693447321,
+          "fov": 1.4171390229739944
+        },
+        "66-toby-fox": {
+          "yaw": -4.0750008888782165,
+          "pitch": 0.09280011693447321,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "10-midway_12",
+      "name": "midway_12",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 0.7234803302880373,
+        "pitch": -0.17126492481910915,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.8127508829441723,
+          "pitch": 0.15609245478902167,
+          "rotation": 0,
+          "target": "37-toby-fox_right"
+        },
+        {
+          "yaw": -2.730347772491914,
+          "pitch": 0.20063168586304592,
+          "rotation": 0,
+          "target": "9-midway_11"
+        },
+        {
+          "yaw": 1.6487097999894198,
+          "pitch": -0.05760386596547207,
+          "rotation": 0,
+          "target": "36-beauty_left"
+        },
+        {
+          "yaw": 2.392749112026679,
+          "pitch": 0.03452673621192659,
+          "rotation": 0,
+          "target": "13-01dummy"
+        },
+        {
+          "yaw": 1.9765559037271085,
+          "pitch": 0.04071380526573165,
+          "rotation": 0,
+          "target": "67-v2420443"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "36-beauty_left": {
+          "yaw": 5.034477015364608,
+          "pitch": 0.015965661783914342,
+          "fov": 1.4171390229739944
+        },
+        "67-v2420443": {
+          "yaw": 5.034477015364608,
+          "pitch": 0.015965661783914342,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "11-tangled_right",
+      "name": "Tangled_right",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.9484949704542993,
+        "pitch": -0.05657166792583723,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.463734802701154,
+          "pitch": -0.01771601908799525,
+          "rotation": 4.71238898038469,
+          "target": "12-tangled_back"
+        },
+        {
+          "yaw": -1.275222432578266,
+          "pitch": 0.08429116533106829,
+          "rotation": 0,
+          "target": "0-midway_1"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "12-tangled_back",
+      "name": "Tangled_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -1.3209537846032067,
+        "pitch": 0.05912648359303141,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.393240455511439,
+          "pitch": -0.03173079271818935,
+          "rotation": 0,
+          "target": "13-01dummy"
+        },
+        {
+          "yaw": -1.4435260184851675,
+          "pitch": 0.2686601956408907,
+          "rotation": 0,
+          "target": "14-tangled_wicked_back"
+        },
+        {
+          "yaw": 1.8928770153646077,
+          "pitch": 0.015965661783914342,
+          "rotation": 0.7853981633974483,
+          "target": "11-tangled_right"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "14-tangled_wicked_back": {
+          "yaw": 1.8928770153646077,
+          "pitch": 0.015965661783914342,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "13-01dummy",
+      "name": "01dummy",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "14-tangled_wicked_back",
+      "name": "Tangled_wicked_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 0.009249239501233575,
+        "pitch": 0.10248800986330053,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.6902884148417971,
+          "pitch": 0.36480004710166014,
+          "rotation": 0,
+          "target": "15-tangled_wicked"
+        },
+        {
+          "yaw": 0.07175370270746839,
+          "pitch": 0.2069151254412489,
+          "rotation": 0,
+          "target": "16-wicked_back"
+        },
+        {
+          "yaw": 2.9271113170848437,
+          "pitch": 0.09475237960701222,
+          "rotation": 0,
+          "target": "12-tangled_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "16-wicked_back": {
+          "yaw": 2.9271113170848437,
+          "pitch": 0.09475237960701222,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "15-tangled_wicked",
+      "name": "Tangled_wicked",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 0.5631809053841437,
+        "pitch": 0.006285724427890216,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.5400713780753197,
+          "pitch": 0.1464513680398909,
+          "rotation": 0,
+          "target": "1-midway_3"
+        },
+        {
+          "yaw": -2.707389866026455,
+          "pitch": 0.10410030410939797,
+          "rotation": 0,
+          "target": "14-tangled_wicked_back"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "16-wicked_back",
+      "name": "wicked_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.7787445130014214,
+        "pitch": -0.06152250249437863,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.3943127208702197,
+          "pitch": 0.189522829748066,
+          "rotation": 0,
+          "target": "18-wicked_csa_back"
+        },
+        {
+          "yaw": -0.472198072643625,
+          "pitch": 0.2884296288442876,
+          "rotation": 0,
+          "target": "14-tangled_wicked_back"
+        },
+        {
+          "yaw": 0.38660029748272606,
+          "pitch": 0.09194234121513212,
+          "rotation": 0,
+          "target": "13-01dummy"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "18-wicked_csa_back": {
+          "yaw": -0.472198072643625,
+          "pitch": 0.2884296288442876,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "17-wicked_csa",
+      "name": "wicked_CSA",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -1.0132291543811256,
+        "pitch": -0.012035168300680965,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.0618503164980755,
+          "pitch": 0.1530549772476988,
+          "rotation": 0,
+          "target": "2-midway_4"
+        },
+        {
+          "yaw": 1.8617328679187048,
+          "pitch": 0.1953255488749761,
+          "rotation": 0,
+          "target": "18-wicked_csa_back"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "18-wicked_csa_back",
+      "name": "wicked_CSA_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -1.4760060014248975,
+        "pitch": 0.027885309784373646,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0937437092063327,
+          "pitch": 0.1269497662578658,
+          "rotation": 0,
+          "target": "17-wicked_csa"
+        },
+        {
+          "yaw": -1.5869859208755983,
+          "pitch": 0.29526158898818444,
+          "rotation": 0,
+          "target": "19-csa_back"
+        },
+        {
+          "yaw": 1.6620602462313592,
+          "pitch": 0.1097140017013416,
+          "rotation": 0,
+          "target": "16-wicked_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "19-csa_back": {
+          "yaw": 1.6620602462313592,
+          "pitch": 0.1097140017013416,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "19-csa_back",
+      "name": "CSA_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.5871829034934226,
+        "pitch": 0.03189413412987818,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.5021508758721076,
+          "pitch": 0.21877683491801392,
+          "rotation": 0,
+          "target": "21-csa_sea-shanties_back"
+        },
+        {
+          "yaw": -0.5651072971942792,
+          "pitch": 0.28951348361441553,
+          "rotation": 0,
+          "target": "18-wicked_csa_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "21-csa_sea-shanties_back": {
+          "yaw": -0.5651072971942792,
+          "pitch": 0.28951348361441553,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "20-csa_sea-shanties",
+      "name": "CSA_Sea Shanties",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "21-csa_sea-shanties_back",
+      "name": "CSA_Sea Shanties_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.2216102123163326,
+        "pitch": 0.08273715852691943,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.229459416347736,
+          "pitch": 0.27037845292415774,
+          "rotation": 0,
+          "target": "28-sea-shanties_back"
+        },
+        {
+          "yaw": 0.6378063847185214,
+          "pitch": 0.10294083385897679,
+          "rotation": 0,
+          "target": "20-csa_sea-shanties"
+        },
+        {
+          "yaw": -0.8086201682376633,
+          "pitch": 0.3215176002738307,
+          "rotation": 0,
+          "target": "19-csa_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "28-sea-shanties_back": {
+          "yaw": -0.8086201682376633,
+          "pitch": 0.3215176002738307,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "22-coco_format",
+      "name": "Coco_Format",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.574869347021143,
+        "pitch": -0.042429312065085156,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.356184865085348,
+          "pitch": 0.07183302886397414,
+          "rotation": 0,
+          "target": "6-midway_8"
+        },
+        {
+          "yaw": -0.6973770445050977,
+          "pitch": 0.07740232261247826,
+          "rotation": 0,
+          "target": "29-coco_format_back"
+        },
+        {
+          "yaw": 1.6121117495648374,
+          "pitch": 0.0010020086568509612,
+          "rotation": 0,
+          "target": "13-01dummy"
+        },
+        {
+          "yaw": -1.322523373272519,
+          "pitch": 0.05127306812367749,
+          "rotation": 0,
+          "target": "13-01dummy"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "23-2010_coco_back",
+      "name": "2010_Coco_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -0.5693646146112243,
+        "pitch": 0.021146904636033526,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.9813928450860576,
+          "pitch": 0.11313775872680054,
+          "rotation": 0,
+          "target": "24-2010_coco"
+        },
+        {
+          "yaw": -0.3311989361195664,
+          "pitch": 0.2369812082192162,
+          "rotation": 0,
+          "target": "29-coco_format_back"
+        },
+        {
+          "yaw": 2.842789797397078,
+          "pitch": 0.23050736740479394,
+          "rotation": 0,
+          "target": "25-2010_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "29-coco_format_back": {
+          "yaw": 2.842789797397078,
+          "pitch": 0.23050736740479394,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "24-2010_coco",
+      "name": "2010_Coco",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.97869525673698,
+        "pitch": -0.05940103689112064,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0143034772985953,
+          "pitch": 0.11078693755835545,
+          "rotation": 0,
+          "target": "5-midway_7"
+        },
+        {
+          "yaw": 2.7278718898481804,
+          "pitch": -0.04981402144495384,
+          "rotation": 0,
+          "target": "13-01dummy"
+        },
+        {
+          "yaw": 0.06611811657175082,
+          "pitch": -0.026813953162474036,
+          "rotation": 0,
+          "target": "23-2010_coco_back"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "25-2010_back",
+      "name": "2010_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.021976908516524674,
+          "pitch": 0.22104151402839634,
+          "rotation": 0,
+          "target": "23-2010_coco_back"
+        },
+        {
+          "yaw": -3.0522947685736206,
+          "pitch": 0.2501699961062833,
+          "rotation": 0,
+          "target": "27-sea-shanties_2010_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "23-2010_coco_back": {
+          "yaw": -3.0522947685736206,
+          "pitch": 0.2501699961062833,
+          "fov": 1.5707963267948966
+        }
+      }
+    },
+    {
+      "id": "26-sea-shanties_2010",
+      "name": "Sea Shanties_2010",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -0.23722311308571875,
+        "pitch": 0.006364396809763306,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.6717039504685438,
+          "pitch": 0.16827565498546448,
+          "rotation": 6.283185307179586,
+          "target": "4-midway_6"
+        },
+        {
+          "yaw": 2.751167389447348,
+          "pitch": 0.03695035460231111,
+          "rotation": 0,
+          "target": "27-sea-shanties_2010_back"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "27-sea-shanties_2010_back",
+      "name": "Sea Shanties_2010_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.6841464697930277,
+        "pitch": -0.015698987948914223,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.753369674196926,
+          "pitch": 0.2307346494043454,
+          "rotation": 0,
+          "target": "25-2010_back"
+        },
+        {
+          "yaw": 1.099851281894507,
+          "pitch": 0.17397977220668537,
+          "rotation": 0,
+          "target": "26-sea-shanties_2010"
+        },
+        {
+          "yaw": -0.532770915641283,
+          "pitch": 0.2870134176654613,
+          "rotation": 0,
+          "target": "28-sea-shanties_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "25-2010_back": {
+          "yaw": -0.532770915641283,
+          "pitch": 0.2870134176654613,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "28-sea-shanties_back",
+      "name": "Sea Shanties_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.657430333297901,
+        "pitch": -0.03893499246600385,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.4211188594870885,
+          "pitch": 0.22960730453361933,
+          "rotation": 0,
+          "target": "27-sea-shanties_2010_back"
+        },
+        {
+          "yaw": -0.5784989918165486,
+          "pitch": 0.2134364496182357,
+          "rotation": 0,
+          "target": "21-csa_sea-shanties_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "27-sea-shanties_2010_back": {
+          "yaw": -0.5784989918165486,
+          "pitch": 0.2134364496182357,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "29-coco_format_back",
+      "name": "Coco_format_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.459362841532453,
+        "pitch": 0.023215583817439267,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.0998588083117085,
+          "pitch": 0.05369843942501973,
+          "rotation": 0,
+          "target": "22-coco_format"
+        },
+        {
+          "yaw": -2.6159915418744966,
+          "pitch": 0.08360878196871724,
+          "rotation": 0,
+          "target": "34-format_british_back"
+        },
+        {
+          "yaw": 0.6087228018682715,
+          "pitch": 0.299543709648173,
+          "rotation": 0,
+          "target": "23-2010_coco_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "34-format_british_back": {
+          "yaw": 0.6087228018682715,
+          "pitch": 0.299543709648173,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "30-asa_back",
+      "name": "ASA_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -1.5775381562493003,
+        "pitch": -0.017970061580513175,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.7583552732689878,
+          "pitch": 0.22637242865294027,
+          "rotation": 0,
+          "target": "35-beauty_back"
+        },
+        {
+          "yaw": 1.682221750173313,
+          "pitch": 0.20068695660965474,
+          "rotation": 0,
+          "target": "32-british_asa_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "35-beauty_back": {
+          "yaw": 1.682221750173313,
+          "pitch": 0.20068695660965474,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "31-british_asa",
+      "name": "British_ASA",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 0.7740397719942358,
+        "pitch": 0.03115719480641488,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.7740397719942358,
+          "pitch": 0.03115719480641488,
+          "rotation": 0,
+          "target": "8-midway_10"
+        },
+        {
+          "yaw": -2.4414471622786458,
+          "pitch": 0.12175355602952109,
+          "rotation": 0,
+          "target": "32-british_asa_back"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "32-british_asa_back",
+      "name": "British_ASA_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.5420831685157932,
+        "pitch": -0.014850259222781048,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.33145100983198006,
+          "pitch": 0.23143627781388432,
+          "rotation": 0,
+          "target": "31-british_asa"
+        },
+        {
+          "yaw": 1.2976835530799953,
+          "pitch": 0.28738728876302133,
+          "rotation": 0,
+          "target": "30-asa_back"
+        },
+        {
+          "yaw": -1.9591310242152566,
+          "pitch": 0.3780799067485141,
+          "rotation": 0,
+          "target": "33-british_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "30-asa_back": {
+          "yaw": -1.9591310242152566,
+          "pitch": 0.3780799067485141,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "33-british_back",
+      "name": "British_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.0678312703310997,
+        "pitch": 0.02129332841441922,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.7625610101411677,
+          "pitch": 0.2970863573139795,
+          "rotation": 0,
+          "target": "32-british_asa_back"
+        },
+        {
+          "yaw": -1.1799395844690324,
+          "pitch": 0.2580715563173861,
+          "rotation": 0,
+          "target": "34-format_british_back"
+        },
+        {
+          "yaw": -0.04898517749625242,
+          "pitch": 0.02182758640644522,
+          "rotation": 0,
+          "target": "13-01dummy"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "32-british_asa_back": {
+          "yaw": -1.1799395844690324,
+          "pitch": 0.2580715563173861,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "34-format_british_back",
+      "name": "Format_British_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.718202978625472,
+        "pitch": 0.053036640081360886,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.5037746062499373,
+          "pitch": 0.2134583661211753,
+          "rotation": 0,
+          "target": "33-british_back"
+        },
+        {
+          "yaw": -0.5434870731426003,
+          "pitch": 0.16534110363328125,
+          "rotation": 0,
+          "target": "29-coco_format_back"
+        },
+        {
+          "yaw": 0.788727436600702,
+          "pitch": 3.3239366814541427e-10,
+          "rotation": 0,
+          "target": "13-01dummy"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "33-british_back": {
+          "yaw": -0.5434870731426003,
+          "pitch": 0.16534110363328125,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "35-beauty_back",
+      "name": "Beauty_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -1.2242557101177596,
+        "pitch": -0.17793196200837258,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.772658746859408,
+          "pitch": 0.020776984048897162,
+          "rotation": 4.71238898038469,
+          "target": "36-beauty_left"
+        },
+        {
+          "yaw": 2.181980630132557,
+          "pitch": 0.15692651911541766,
+          "rotation": 0,
+          "target": "30-asa_back"
+        },
+        {
+          "yaw": 2.585354169138803,
+          "pitch": -0.09924404478561932,
+          "rotation": 0,
+          "target": "13-01dummy"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "36-beauty_left": {
+          "yaw": 2.181980630132557,
+          "pitch": 0.15692651911541766,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "36-beauty_left",
+      "name": "Beauty_left",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.7840004246550727,
+        "pitch": -0.06610948342629541,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.1195241532223292,
+          "pitch": 0.17336341977641112,
+          "rotation": 0,
+          "target": "10-midway_12"
+        },
+        {
+          "yaw": 1.008002884966018,
+          "pitch": 0.009322436190368322,
+          "rotation": 0.7853981633974483,
+          "target": "35-beauty_back"
+        },
+        {
+          "yaw": 1.4858171518043877,
+          "pitch": -0.022727881183008947,
+          "rotation": 0,
+          "target": "13-01dummy"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "10-midway_12": {
+          "yaw": 0.6111806301325571,
+          "pitch": 0.15692651911541766,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "37-toby-fox_right",
+      "name": "Toby Fox_right",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -1.2505327028138922,
+        "pitch": -0.012728793619524836,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.410271165204179,
+          "pitch": 0.04281515306633921,
+          "rotation": 4.71238898038469,
+          "target": "44-toby-fox_back"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "38-mama_back",
+      "name": "Mama_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -0.46123789118791336,
+        "pitch": -0.023634791615057438,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.8276438117165448,
+          "pitch": 0.10979933518495244,
+          "rotation": 0,
+          "target": "48-frog_back"
+        },
+        {
+          "yaw": -3.0750181951037696,
+          "pitch": 0.0037871729902398954,
+          "rotation": 7.0685834705770345,
+          "target": "39-childish_mama"
+        },
+        {
+          "yaw": 2.5013331827542,
+          "pitch": 0.1784946113658883,
+          "rotation": 0,
+          "target": "40-childish_back"
+        },
+        {
+          "yaw": -2.616555386593454,
+          "pitch": 0.1592108868840434,
+          "rotation": 0,
+          "target": "13-01dummy"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "48-frog_back": {
+          "yaw": 2.5013331827542,
+          "pitch": 0.1784946113658883,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "39-childish_mama",
+      "name": "Childish_Mama",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.9437678990695648,
+        "pitch": 0.0736805108179528,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.7485459888568178,
+          "pitch": 0.09973921173909162,
+          "rotation": 0,
+          "target": "6-midway_8"
+        },
+        {
+          "yaw": -1.4759805911687423,
+          "pitch": 0.11904443054229041,
+          "rotation": 0,
+          "target": "38-mama_back"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "40-childish_back",
+      "name": "Childish_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -1.3517751365766344,
+        "pitch": -0.06863426081922697,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.5933645774941887,
+          "pitch": 0.30588188807614713,
+          "rotation": 0,
+          "target": "38-mama_back"
+        },
+        {
+          "yaw": -2.5187557337411484,
+          "pitch": 0.0373501129816205,
+          "rotation": 5.497787143782138,
+          "target": "39-childish_mama"
+        },
+        {
+          "yaw": 1.5626595359892388,
+          "pitch": 0.2861166251302958,
+          "rotation": 0,
+          "target": "41-hadestown_childish_back"
+        },
+        {
+          "yaw": 3.0787274540539906,
+          "pitch": 0.17959046355782604,
+          "rotation": 0,
+          "target": "13-01dummy"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "38-mama_back": {
+          "yaw": 1.5626595359892388,
+          "pitch": 0.2861166251302958,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "41-hadestown_childish_back",
+      "name": "Hadestown_Childish_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.748371455158553,
+        "pitch": -0.056003927049442126,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.8421920790868747,
+          "pitch": 0.163754013852639,
+          "rotation": 0,
+          "target": "40-childish_back"
+        },
+        {
+          "yaw": 1.7508408910035396,
+          "pitch": 0.07835131363490788,
+          "rotation": 0,
+          "target": "7-midway_9"
+        },
+        {
+          "yaw": 0.2494562373810929,
+          "pitch": 0.1801804152132913,
+          "rotation": 0,
+          "target": "42-hadestown_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "40-childish_back": {
+          "yaw": 0.2494562373810929,
+          "pitch": 0.1801804152132913,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "42-hadestown_back",
+      "name": "Hadestown_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.1886233028721254,
+        "pitch": -0.08391525600674576,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.3345163440790664,
+          "pitch": 0.2822269164619069,
+          "rotation": 0,
+          "target": "41-hadestown_childish_back"
+        },
+        {
+          "yaw": 1.021759296531581,
+          "pitch": 0.3668458052381105,
+          "rotation": 0,
+          "target": "45-toby-fox_hadestown_back"
+        },
+        {
+          "yaw": 2.6530217811082792,
+          "pitch": 0.1278098220060997,
+          "rotation": 0,
+          "target": "13-01dummy"
+        },
+        {
+          "yaw": 2.065440299679966,
+          "pitch": 0.12034819239316974,
+          "rotation": 0,
+          "target": "13-01dummy"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "41-hadestown_childish_back": {
+          "yaw": 1.021759296531581,
+          "pitch": 0.3668458052381105,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "43-toby-fox_hadestown",
+      "name": "Toby Fox_Hadestown",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.237003779122297,
+        "pitch": -0.02160615587369996,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.0085343482426197,
+          "pitch": 0.17625933719113718,
+          "rotation": 0,
+          "target": "8-midway_10"
+        },
+        {
+          "yaw": -1.3113688301496893,
+          "pitch": 0.06706112528315167,
+          "rotation": 0,
+          "target": "13-01dummy"
+        },
+        {
+          "yaw": -2.2579360683322918,
+          "pitch": 0.11928705223145997,
+          "rotation": 0,
+          "target": "45-toby-fox_hadestown_back"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "44-toby-fox_back",
+      "name": "Toby Fox_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.704972056214398,
+        "pitch": -0.06604437295358068,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.610859278780607,
+          "pitch": 0.4678843290006949,
+          "rotation": 0,
+          "target": "45-toby-fox_hadestown_back"
+        },
+        {
+          "yaw": 1.1042358158368266,
+          "pitch": 0.14804376236356198,
+          "rotation": 7.0685834705770345,
+          "target": "37-toby-fox_right"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "45-toby-fox_hadestown_back": {
+          "yaw": 1.1042358158368266,
+          "pitch": 0.14804376236356198,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "45-toby-fox_hadestown_back",
+      "name": "Toby Fox_Hadestown_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.3357438319532005,
+        "pitch": -0.03047630071048779,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.394350526288557,
+          "pitch": 0.43607218116927626,
+          "rotation": 0,
+          "target": "42-hadestown_back"
+        },
+        {
+          "yaw": -0.24300648808442915,
+          "pitch": 0.34217445957424175,
+          "rotation": 0,
+          "target": "43-toby-fox_hadestown"
+        },
+        {
+          "yaw": -1.904505184650338,
+          "pitch": 0.2874498467712989,
+          "rotation": 0,
+          "target": "44-toby-fox_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "42-hadestown_back": {
+          "yaw": -1.904505184650338,
+          "pitch": 0.2874498467712989,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "46-just-dance_back",
+      "name": "Just Dance_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.0386518178048973,
+        "pitch": -0.15695465782936502,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.083353364463491,
+          "pitch": 0.02547237434633054,
+          "rotation": 0,
+          "target": "50-impala_back"
+        },
+        {
+          "yaw": -2.861627688741459,
+          "pitch": -0.09664399512833555,
+          "rotation": 4.71238898038469,
+          "target": "53-impala_just-dance"
+        },
+        {
+          "yaw": 1.1078058872884746,
+          "pitch": 0.3173425868004838,
+          "rotation": 0,
+          "target": "47-frog_just-dance_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "50-impala_back": {
+          "yaw": 1.1078058872884746,
+          "pitch": 0.3173425868004838,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "47-frog_just-dance_back",
+      "name": "Frog_Just Dance_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.8957082983012477,
+        "pitch": -0.16632421591017454,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.0448342603516743,
+          "pitch": 0.028669450691761966,
+          "rotation": 10.995574287564278,
+          "target": "49-frog_just-dance"
+        },
+        {
+          "yaw": 2.869700465262725,
+          "pitch": 0.02236137459969001,
+          "rotation": 0,
+          "target": "46-just-dance_back"
+        },
+        {
+          "yaw": -0.2510405031898557,
+          "pitch": 0.43329019758419207,
+          "rotation": 0,
+          "target": "48-frog_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "46-just-dance_back": {
+          "yaw": -0.2510405031898557,
+          "pitch": 0.43329019758419207,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "48-frog_back",
+      "name": "Frog_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -3.119406569043697,
+        "pitch": 0.025414724574487124,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0602719735546327,
+          "pitch": 0.21403587610794084,
+          "rotation": 0,
+          "target": "47-frog_just-dance_back"
+        },
+        {
+          "yaw": -0.27200421296007526,
+          "pitch": 0.015050709149491581,
+          "rotation": 0,
+          "target": "38-mama_back"
+        },
+        {
+          "yaw": 1.4679199599307795,
+          "pitch": 0.001987504243430749,
+          "rotation": 0,
+          "target": "13-01dummy"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "47-frog_just-dance_back": {
+          "yaw": -0.27200421296007526,
+          "pitch": 0.015050709149491581,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "49-frog_just-dance",
+      "name": "Frog_Just Dance",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -1.2488144565839008,
+        "pitch": -0.09861537661178055,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.3069333355823005,
+          "pitch": 0.09382577203459519,
+          "rotation": 0,
+          "target": "3-midway_5"
+        },
+        {
+          "yaw": 0.4949633916308791,
+          "pitch": 0.19183255052469406,
+          "rotation": 0,
+          "target": "13-01dummy"
+        },
+        {
+          "yaw": 1.9399852950751342,
+          "pitch": 0.18188807616819958,
+          "rotation": 0,
+          "target": "47-frog_just-dance_back"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "50-impala_back",
+      "name": "Impala_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.76384241855364,
+        "pitch": -0.09560772761515857,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.8270548599753322,
+          "pitch": 0.06562503346062876,
+          "rotation": 0,
+          "target": "51-taylor_back"
+        },
+        {
+          "yaw": 0.9774521234308811,
+          "pitch": 0.0014468930273743297,
+          "rotation": 4.71238898038469,
+          "target": "54-impala_taylor"
+        },
+        {
+          "yaw": -1.3648260476339686,
+          "pitch": 0.2376788463253483,
+          "rotation": 0,
+          "target": "46-just-dance_back"
+        },
+        {
+          "yaw": 1.2118907199293503,
+          "pitch": 0.105763358886378,
+          "rotation": 0,
+          "target": "62-taylor"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "51-taylor_back": {
+          "yaw": -1.3648260476339686,
+          "pitch": 0.2376788463253483,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "51-taylor_back",
+      "name": "Taylor_back",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.1060065164269943,
+        "pitch": 0.0806156929236721,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.5387538802116101,
+          "pitch": 0.14438044118209703,
+          "rotation": 5.497787143782138,
+          "target": "52-taylor_left"
+        },
+        {
+          "yaw": -1.9568778348726923,
+          "pitch": 0.09802199664402877,
+          "rotation": 0,
+          "target": "50-impala_back"
+        }
+      ],
+      "infoHotspots": [],
+      "entryViewParameters": {
+        "52-taylor_left": {
+          "yaw": -1.9568778348726923,
+          "pitch": 0.09802199664402877,
+          "fov": 1.4171390229739944
+        }
+      }
+    },
+    {
+      "id": "52-taylor_left",
+      "name": "Taylor_left",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -1.2467356750498695,
+        "pitch": 0.08146946978122749,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.2019403046291863,
+          "pitch": 0.0851657407575459,
+          "rotation": 0,
+          "target": "0-midway_1"
+        },
+        {
+          "yaw": 2.306504952326131,
+          "pitch": 0.009265363834023432,
+          "rotation": 0,
+          "target": "51-taylor_back"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "53-impala_just-dance",
+      "name": "Impala_Just Dance",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.1976417879811176,
+        "pitch": -0.08485862413017387,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.1386506622023536,
+          "pitch": 0.08142775063678087,
+          "rotation": 0,
+          "target": "1-midway_3"
+        },
+        {
+          "yaw": -2.1190157220107455,
+          "pitch": -0.0279513728436811,
+          "rotation": 0,
+          "target": "50-impala_back"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "54-impala_taylor",
+      "name": "Impala_Taylor",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -0.8615346254020366,
+        "pitch": 0.08009055046279734,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.9910471244331394,
+          "pitch": 0.22349812415304982,
+          "rotation": 0,
+          "target": "1-midway_3"
+        },
+        {
+          "yaw": 2.0660790745738815,
+          "pitch": 0.030019340707227116,
+          "rotation": 0,
+          "target": "51-taylor_back"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "55-asa",
+      "name": "ASA",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.890005822643868,
+        "pitch": 0.08035733757777663,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.046310076325069005,
+          "pitch": 0.11991367028769595,
+          "rotation": 0,
+          "target": "9-midway_11"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "56-2010",
+      "name": "2010",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.5238485240197663,
+        "pitch": -0.17704594761705117,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.6499732391650586,
+          "pitch": 0.1260238638270632,
+          "rotation": 0,
+          "target": "4-midway_6"
+        },
+        {
+          "yaw": -0.9427242891660388,
+          "pitch": 0.2398931361151746,
+          "rotation": 0,
+          "target": "5-midway_7"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "57-2010_backdoor",
+      "name": "2010_backdoor",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "58-sea-shantie",
+      "name": "sea shantie",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -3.0975267666944504,
+        "pitch": -0.040307846461834274,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.3266938171241769,
+          "pitch": 0.1575581771442245,
+          "rotation": 0,
+          "target": "3-midway_5"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "59-british",
+      "name": "british",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -3.135014544367852,
+        "pitch": -0.029700518445562096,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.8380570017216726,
+          "pitch": 0.24172215822641974,
+          "rotation": 0,
+          "target": "8-midway_10"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "60-csa",
+      "name": "CSA",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.7519427113643573,
+        "pitch": -0.11714496653612372,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.7194987686449288,
+          "pitch": 0.17362710252511881,
+          "rotation": 0,
+          "target": "2-midway_4"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "61-wicked",
+      "name": "wicked",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.12988930946514,
+          "pitch": 0.2455280995763438,
+          "rotation": 0,
+          "target": "2-midway_4"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "62-taylor",
+      "name": "taylor",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.5654631500940255,
+          "pitch": 0.33463115511720076,
+          "rotation": 0,
+          "target": "54-impala_taylor"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "63-impala",
+      "name": "impala",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "64-mama",
+      "name": "mama",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -0.10410593736388662,
+        "pitch": -0.0510258586296235,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.836487792701657,
+          "pitch": 0.3252695576230096,
+          "rotation": 0,
+          "target": "6-midway_8"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "65-childish",
+      "name": "childish",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 3.068116251875831,
+        "pitch": -0.008113187751487061,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.4801153087000234,
+          "pitch": 0.17195074516588704,
+          "rotation": 0,
+          "target": "6-midway_8"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "66-toby-fox",
+      "name": "toby fox",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.866860782458593,
+        "pitch": -0.0006650098252922731,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.15596089414418302,
+          "pitch": 0.2104626804866907,
+          "rotation": 0,
+          "target": "9-midway_11"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "67-v2420443",
+      "name": "V2420443",
+      "levels": [
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 0.7018358561210469,
+        "pitch": 0.1702465093054677,
+        "fov": 1.4171390229739944
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.1302285388979865,
+          "pitch": 0.14535267117461004,
+          "rotation": 0,
+          "target": "10-midway_12"
+        }
+      ],
+      "infoHotspots": []
+    }
+  ],
+  "name": "Booth 2026",
+  "settings": {
+    "mouseViewMode": "drag",
+    "autorotateEnabled": false,
+    "fullscreenButton": false,
+    "viewControlButtons": false
+  }
+}
