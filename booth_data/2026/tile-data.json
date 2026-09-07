@@ -46,7 +46,7 @@
           "yaw": 2.785324549135865,
           "pitch": 0.021773198434443586,
           "rotation": 0,
-          "target": "13-01dummy"
+          "target": "0-v1780251"
         },
         {
           "yaw": -1.6658700853115818,
@@ -114,7 +114,7 @@
           "yaw": 2.571898387142822,
           "pitch": -0.013226817128721535,
           "rotation": 0,
-          "target": "13-01dummy"
+          "target": "0-v1870278"
         }
       ],
       "infoHotspots": [],
@@ -187,7 +187,13 @@
           "yaw": 1.603038963606748,
           "pitch": -0.020203356420370966,
           "rotation": 0,
-          "target": "63-impala"
+          "target": "0-v1870278"
+        },
+        {
+          "yaw": 2.43,
+          "pitch": -0.020203356420370966,
+          "rotation": 0,
+          "target": "0-v1870278"
         },
         {
           "yaw": -1.837712974529202,
@@ -2826,6 +2832,12 @@
           "pitch": 0.030019340707227116,
           "rotation": 0,
           "target": "51-taylor_back"
+        },
+        {
+          "yaw": -2.5,
+          "pitch": 0.030019340707227116,
+          "rotation": 0,
+          "target": "6-v1930296"
         }
       ],
       "infoHotspots": []
@@ -3089,6 +3101,12 @@
           "pitch": 0.33463115511720076,
           "rotation": 0,
           "target": "54-impala_taylor"
+        },
+        {
+          "yaw": 0,
+          "pitch": 0.33463115511720076,
+          "rotation": 0,
+          "target": "6-v1850272"
         }
       ],
       "infoHotspots": []
@@ -3250,7 +3268,668 @@
         }
       ],
       "infoHotspots": []
+    },
+    {
+      "id": "0-v1780251",
+      "name": "V1780251",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.0369588041602036,
+        "pitch": 0.04894573865763441,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.03882710927716637,
+          "pitch": 0.5319620994928478,
+          "rotation": 0,
+          "target": "1-v1790256"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "1-v1790256",
+      "name": "V1790256",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -0.06890306021870529,
+        "pitch": 0.053130154079847,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": 3.05903928008642,
+          "pitch": 0.3578840626586608,
+          "rotation": 0,
+          "target": "0-v1780251"
+        },
+        {
+          "yaw": 1.5455525061729745,
+          "pitch": 0.4525763329907466,
+          "rotation": 0,
+          "target": "2-v1800257"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "2-v1800257",
+      "name": "V1800257",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -1.1878487130693394,
+        "pitch": -0.12076718181098478,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.353710559177756,
+          "pitch": 0.37570401369408657,
+          "rotation": 0,
+          "target": "1-v1790256",
+          "targetView": {
+            "yaw": -1.57,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        },
+        {
+          "yaw": -0.4035567561529074,
+          "pitch": 0.31112210190901024,
+          "rotation": 0,
+          "target": "3-v1810260"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "3-v1810260",
+      "name": "V1810260",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.7097166999397437,
+        "pitch": -0.22533628649399162,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.5744745809351066,
+          "pitch": 0.7800598982951481,
+          "rotation": 0,
+          "target": "2-v1800257",
+          "targetView": {
+            "yaw": 3.14,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        },
+        {
+          "yaw": -3.0952997368954343,
+          "pitch": 0.40824331252710877,
+          "rotation": 0,
+          "target": "4-v1820263"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "4-v1820263",
+      "name": "V1820263",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.8097293465001627,
+        "pitch": 0.0850498384055598,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.8360542879054282,
+          "pitch": 0.6900053710111109,
+          "rotation": 0,
+          "target": "3-v1810260",
+          "targetView": {
+            "yaw": 0,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        },
+        {
+          "yaw": -2.4910637766416546,
+          "pitch": 0.41276632983108286,
+          "rotation": 0,
+          "target": "5-v1840269"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-v1840269",
+      "name": "V1840269",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -1.090905157457307,
+        "pitch": -0.10686366095598387,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.5346308343357826,
+          "pitch": 0.6041645654755641,
+          "rotation": 0,
+          "target": "4-v1820263",
+          "targetView": {
+            "yaw": 0.6,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        },
+        {
+          "yaw": 0.3060407552319546,
+          "pitch": 0.37791404641737003,
+          "rotation": 0,
+          "target": "6-v1850272"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "6-v1850272",
+      "name": "V1850272",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.2773923282163935,
+        "pitch": 0.03533629660594784,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": -0.7598859794369339,
+          "pitch": 0.3055357914862409,
+          "rotation": 0,
+          "target": "5-v1840269",
+          "targetView": {
+            "yaw": 3.4,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        },
+        {
+          "yaw": -2.817773317921649,
+          "pitch": 0.6654237031761205,
+          "rotation": 0.7853981633974483,
+          "target": "62-taylor"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "0-v1870278",
+      "name": "V1870278",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.3893200644164594,
+        "pitch": -0.0497698719869728,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.942227520784148,
+          "pitch": 0.5214726795592899,
+          "rotation": 0,
+          "target": "1-v1880281"
+        },
+        {
+          "yaw": 0,
+          "pitch": 0.5214726795592899,
+          "rotation": 0,
+          "target": "1-midway_3"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "1-v1880281",
+      "name": "V1880281",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.7977784380031103,
+        "pitch": 0.024260213850475054,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.7236312632194597,
+          "pitch": 0.5742189491878378,
+          "rotation": 0,
+          "target": "0-v1870278",
+          "targetView": {
+            "yaw": -1.57,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        },
+        {
+          "yaw": 2.904799552599459,
+          "pitch": 0.5400944163300192,
+          "rotation": 0,
+          "target": "2-v1890284"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "2-v1890284",
+      "name": "V1890284",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.4999054395643903,
+        "pitch": 0.06980660165188368,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.46729948628250284,
+          "pitch": 0.6717747161462988,
+          "rotation": 0,
+          "target": "1-v1880281",
+          "targetView": {
+            "yaw": 0,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        },
+        {
+          "yaw": -1.3300631301195445,
+          "pitch": 0.4014568439487505,
+          "rotation": 4.71238898038469,
+          "target": "3-v1900287"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "3-v1900287",
+      "name": "V1900287",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -3.0105707132375112,
+        "pitch": -0.007581423218894656,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": 0.5807765643060065,
+          "pitch": 0.35787338922943945,
+          "rotation": 1.5707963267948966,
+          "target": "2-v1890284",
+          "targetView": {
+            "yaw": 1.57,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        },
+        {
+          "yaw": 2.1133822677658696,
+          "pitch": 0.5369506170029084,
+          "rotation": 0,
+          "target": "4-v1910290"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "4-v1910290",
+      "name": "V1910290",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.7821843897553817,
+        "pitch": 0.0625073017079334,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.884554126520273,
+          "pitch": 0.310386676877318,
+          "rotation": 0,
+          "target": "3-v1900287",
+          "targetView": {
+            "yaw": -1.3,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        },
+        {
+          "yaw": -0.10111773780178623,
+          "pitch": 0.28935777763229886,
+          "rotation": 0,
+          "target": "6-v1930296"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-v1920293",
+      "name": "V1920293",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0017959643642733,
+          "pitch": 0.3158776642364529,
+          "rotation": 0,
+          "target": "6-v1930296"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "6-v1930296",
+      "name": "V1930296",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.0797939857782453,
+        "pitch": -0.037687527533734055,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.1641957065588215,
+          "pitch": 0.44522024072628597,
+          "rotation": 0,
+          "target": "4-v1910290",
+          "targetView": {
+            "yaw": 3.14,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        },
+        {
+          "yaw": 1.1234463159758192,
+          "pitch": 0.2696297281477147,
+          "rotation": 0,
+          "target": "5-v1920293"
+        },
+        {
+          "yaw": 2.84323472891092,
+          "pitch": 0.4007931259997246,
+          "rotation": 0,
+          "target": "54-impala_taylor"
+        }
+      ],
+      "infoHotspots": []
     }
+    
   ],
   "name": "Booth 2026",
   "settings": {
