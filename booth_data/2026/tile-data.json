@@ -2149,7 +2149,7 @@
           "yaw": 3.0787274540539906,
           "pitch": 0.17959046355782604,
           "rotation": 0,
-          "target": "13-01dummy"
+          "target": "1-v2300407"
         }
       ],
       "infoHotspots": [],
@@ -3205,6 +3205,12 @@
           "pitch": 0.17195074516588704,
           "rotation": 0,
           "target": "6-midway_8"
+        },
+        {
+          "yaw": 3.068116251875831,
+          "pitch": 0.508113187751487061,
+          "rotation": 0,
+          "target": "0-v2290404"
         }
       ],
       "infoHotspots": []
@@ -4594,6 +4600,99 @@
           "target": "0-v2230386",
           "targetView": {
             "yaw": 3.14,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "0-v2290404",
+      "name": "V2290404",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.607343137822113,
+        "pitch": -0.04863593846425829,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.6809115705941995,
+          "pitch": 0.29518558418044805,
+          "rotation": 0,
+          "target": "1-v2300407"
+        },
+        {
+          "yaw": 0.4809115705941995,
+          "pitch": 0.29518558418044805,
+          "rotation": 0,
+          "target": "65-childish"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "1-v2300407",
+      "name": "V2300407",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.4401589785315334,
+        "pitch": 0.07176333367882037,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.5646538262767216,
+          "pitch": 0.4024288929391133,
+          "rotation": 0,
+          "target": "40-childish_back"
+        },
+        {
+          "yaw": 0.6943628591783231,
+          "pitch": 0.517845938254311,
+          "rotation": 0,
+          "target": "0-v2290404",
+          "targetView": {
+            "yaw": 0.4,
             "pitch": 0.0,
             "fov": 1.57
           }
