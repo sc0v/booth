@@ -66,6 +66,7 @@
 
   // Initialize viewer.
   var viewer = new Marzipano.Viewer(panoElement, viewerOpts);
+  window.viewer = viewer; // debug: read viewer.view().yaw()/.pitch() in console to place new hotspots
 
   // Create scenes.
   var scenes = data.scenes.map(function(data) {

@@ -1156,6 +1156,12 @@
           "pitch": 0.28951348361441553,
           "rotation": 0,
           "target": "18-wicked_csa_back"
+        },
+        {
+          "yaw": 1.5,
+          "pitch": 0,
+          "rotation": 0,
+          "target": "2-trad_chinese_music"
         }
       ],
       "infoHotspots": [],
@@ -3045,6 +3051,12 @@
           "pitch": 0.17362710252511881,
           "rotation": 0,
           "target": "2-midway_4"
+        },
+        {
+          "yaw": 1.87,
+          "pitch": 0.17362710252511881,
+          "rotation": 0,
+          "target": "0-trad_chinese_music"
         }
       ],
       "infoHotspots": []
@@ -5804,6 +5816,147 @@
           "target": "3-tangled",
           "targetView": {
             "yaw": 0,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "0-trad_chinese_music",
+      "name": "00 trad_chinese_music",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.152651362561116,
+        "pitch": 0.1640977761364617,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.8398221570830486,
+          "pitch": 0.31974895674593284,
+          "rotation": 4.71238898038469,
+          "target": "1-trad_chinese_music"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "1-trad_chinese_music",
+      "name": "01 trad_chinese_music",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.7422193778047292,
+        "pitch": 0.04647692970436523,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": -1.1184656387185257,
+          "pitch": 0.36633918886331074,
+          "rotation": 0,
+          "target": "0-trad_chinese_music",
+          "targetView": {
+            "yaw": -0.6,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        },
+        {
+          "yaw": -2.472142862483766,
+          "pitch": 0.44745239233186496,
+          "rotation": 0,
+          "target": "2-trad_chinese_music"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "2-trad_chinese_music",
+      "name": "02 trad_chinese_music",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -0.079240736782765,
+        "pitch": -0.1105500807656199,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": -3.0532005016255326,
+          "pitch": 0.587753201441755,
+          "rotation": 0,
+          "target": "1-trad_chinese_music",
+          "targetView": {
+            "yaw": 0.7,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        },
+        {
+          "yaw": -1.2717041525932231,
+          "pitch": 0.31358393908811877,
+          "rotation": 1.5707963267948966,
+          "target": "19-csa_back",
+          "targetView": {
+            "yaw": -1,
             "pitch": 0.0,
             "fov": 1.57
           }
