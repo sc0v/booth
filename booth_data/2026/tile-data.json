@@ -52,7 +52,7 @@
           "yaw": -1.6658700853115818,
           "pitch": 0.011541059274154719,
           "rotation": 0,
-          "target": "13-01dummy"
+          "target": "0-tangled"
         }
       ],
       "infoHotspots": [],
@@ -837,7 +837,7 @@
           "yaw": 2.393240455511439,
           "pitch": -0.03173079271818935,
           "rotation": 0,
-          "target": "13-01dummy"
+          "target": "1-tangled"
         },
         {
           "yaw": -1.4435260184851675,
@@ -5576,8 +5576,242 @@
         }
       ],
       "infoHotspots": []
+    },
+    {
+      "id": "0-tangled",
+      "name": "01 tangled",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -2.5803900790068557,
+        "pitch": 0.19492515960437906,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.356524401192016,
+          "pitch": 0.3205525582549775,
+          "rotation": 0,
+          "target": "2-tangled"
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "1-tangled",
+      "name": "05 tangled",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.9581322111089516,
+        "pitch": 0.054503611020368936,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.4942138456859677,
+          "pitch": 0.29899908427243993,
+          "rotation": 0,
+          "target": "12-tangled_back"
+        },
+        {
+          "yaw": -0.24,
+          "pitch": 0.29899908427243993,
+          "rotation": 0,
+          "target": "4-tangled",
+          "targetView": {
+            "yaw": -2,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "2-tangled",
+      "name": "02 tangled",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 2.146504332421353,
+        "pitch": 0.08110347898600878,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.9297529240282456,
+          "pitch": 0.4737674906060434,
+          "rotation": 0,
+          "target": "3-tangled"
+        },
+        {
+          "yaw": -1.17,
+          "pitch": 0.4737674906060434,
+          "rotation": 0,
+          "target": "0-tangled",
+          "targetView": {
+            "yaw": -1.37,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "3-tangled",
+      "name": "03 tangled",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": 1.7966722629505352,
+        "pitch": 0.007680021544681281,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": -2.868340418589103,
+          "pitch": 0.3387900895284943,
+          "rotation": 0,
+          "target": "4-tangled"
+        },
+        {
+          "yaw": -1.57,
+          "pitch": 0.3387900895284943,
+          "rotation": 0,
+          "target": "2-tangled",
+          "targetView": {
+            "yaw": -1,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        }
+      ],
+      "infoHotspots": []
+    },
+    {
+      "id": "4-tangled",
+      "name": "04 tangled",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1410,
+      "initialViewParameters": {
+        "yaw": -0.27462454741720244,
+        "pitch": 0.06762285457543804,
+        "fov": 1.4999635958426394
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.232285009934408,
+          "pitch": 0.23321129106008343,
+          "rotation": 0,
+          "target": "1-tangled"
+        },
+        {
+          "yaw": 2.8,
+          "pitch": 0.23321129106008343,
+          "rotation": 0,
+          "target": "3-tangled",
+          "targetView": {
+            "yaw": 0,
+            "pitch": 0.0,
+            "fov": 1.57
+          }
+        }
+      ],
+      "infoHotspots": []
     }
-    
+
   ],
   "name": "Booth 2026",
   "settings": {
