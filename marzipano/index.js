@@ -105,6 +105,7 @@
       view: view
     };
   });
+  window.scenes = scenes; // debug: scenes.find(s => s.scene === viewer.scene()).data.id
 
   // Set up autorotate, if enabled.
   var autorotate = Marzipano.autorotate({
