@@ -19,7 +19,7 @@
     </header>
     <div id="content">
       <div id="year-picker">
-        <a href="/">« 2024</a><h1 id="year-title">Booth 2025</h1><a href="/?year=2026">2026 »</a>
+        <a id="prev-year-link"></a><h1 id="year-title"></h1><a id="next-year-link"></a>
       </div>
       <div>
         <h2>Plot Map</h2>
@@ -33,11 +33,39 @@
       Website by Joe McLaughlin, Katelyn Zheng, and the Spring Carnival Software Subcommittee
     </footer>
     <script>
+      // Years with available booth data, oldest to newest
+      const YEARS = [2025, 2026];
+      const DEFAULT_YEAR = YEARS[YEARS.length - 1];
+
       // Pass year into iframe
       const queryParams = new URLSearchParams(window.location.search);
-      const year = queryParams.get('year') ?? 2025;
+      const year = parseInt(queryParams.get('year') ?? DEFAULT_YEAR, 10);
       document.getElementById('pano-frame').contentWindow.YEAR = year;
       document.getElementById('year-title').textContent = `Booth ${year}`;
+
+      function yearHref(y) {
+        return y === DEFAULT_YEAR ? '/' : `/?year=${y}`;
+      }
+
+      const yearIndex = YEARS.indexOf(year);
+      const prevYear = yearIndex > 0 ? YEARS[yearIndex - 1] : null;
+      const nextYear = yearIndex >= 0 && yearIndex < YEARS.length - 1 ? YEARS[yearIndex + 1] : null;
+
+      const prevLink = document.getElementById('prev-year-link');
+      if (prevYear !== null) {
+        prevLink.href = yearHref(prevYear);
+        prevLink.textContent = `« ${prevYear}`;
+      } else {
+        prevLink.style.visibility = 'hidden';
+      }
+
+      const nextLink = document.getElementById('next-year-link');
+      if (nextYear !== null) {
+        nextLink.href = yearHref(nextYear);
+        nextLink.textContent = `${nextYear} »`;
+      } else {
+        nextLink.style.visibility = 'hidden';
+      }
 
       async function setupPlotMap() {
         // Set up SVG
