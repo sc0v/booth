@@ -46,13 +46,13 @@
           "yaw": 2.785324549135865,
           "pitch": 0.021773198434443586,
           "rotation": 0,
-          "target": "0-v1780251"
+          "target": "START-kappa-alpha-theta"
         },
         {
           "yaw": -1.6658700853115818,
           "pitch": 0.011541059274154719,
           "rotation": 0,
-          "target": "0-tangled"
+          "target": "START-tsa-hksa"
         }
       ],
       "infoHotspots": [],
@@ -114,7 +114,7 @@
           "yaw": 2.571898387142822,
           "pitch": -0.013226817128721535,
           "rotation": 0,
-          "target": "0-v1870278"
+          "target": "START-phi-delta-theta"
         }
       ],
       "infoHotspots": [],
@@ -181,25 +181,25 @@
           "yaw": -0.5426946389833329,
           "pitch": 0.008868054958455218,
           "rotation": 0,
-          "target": "61-wicked"
+          "target": "START-achio"
         },
         {
           "yaw": 1.603038963606748,
           "pitch": -0.020203356420370966,
           "rotation": 0,
-          "target": "0-v1870278"
+          "target": "START-phi-delta-theta"
         },
         {
           "yaw": 2.43,
           "pitch": -0.020203356420370966,
           "rotation": 0,
-          "target": "11-v2210380"
+          "target": "START-alpha-epsilon-pi"
         },
         {
           "yaw": -1.837712974529202,
           "pitch": 0.04866748062192805,
           "rotation": 0,
-          "target": "60-csa"
+          "target": "START-csa"
         }
       ],
       "infoHotspots": [],
@@ -214,12 +214,12 @@
           "pitch": 0.05480868995168109,
           "fov": 1.4171390229739944
         },
-        "61-wicked": {
+        "START-achio": {
           "yaw": 2.113987642849814,
           "pitch": 0.05480868995168109,
           "fov": 1.4171390229739944
         },
-        "60-csa": {
+        "START-csa": {
           "yaw": 2.113987642849814,
           "pitch": 0.05480868995168109,
           "fov": 1.4171390229739944
@@ -266,13 +266,13 @@
           "yaw": 2.5101162034618696,
           "pitch": -0.001203859674976826,
           "rotation": 0,
-          "target": "11-v2070338"
+          "target": "START-kkg"
         },
         {
           "yaw": -1.7023497644836674,
           "pitch": 0.11073416758979171,
           "rotation": 0,
-          "target": "58-sea-shantie"
+          "target": "START-fringe"
         }
       ],
       "infoHotspots": [],
@@ -287,7 +287,7 @@
           "pitch": 0.05927490455326989,
           "fov": 1.4171390229739944
         },
-        "58-sea-shantie": {
+        "START-fringe": {
           "yaw": 2.3087807974867918,
           "pitch": 0.05927490455326989,
           "fov": 1.4171390229739944
@@ -334,7 +334,7 @@
           "yaw": -2.4289342170109034,
           "pitch": 0.07397644140099757,
           "rotation": 0,
-          "target": "56-2010"
+          "target": "START-tridelt"
         }
       ],
       "infoHotspots": [],
@@ -349,7 +349,7 @@
           "pitch": 0.06402539503996962,
           "fov": 1.4171390229739944
         },
-        "56-2010": {
+        "START-tridelt": {
           "yaw": 1.923228676957322,
           "pitch": 0.06402539503996962,
           "fov": 1.4171390229739944
@@ -396,7 +396,7 @@
           "yaw": -2.306598302100312,
           "pitch": 0.07414370817510019,
           "rotation": 0,
-          "target": "56-2010"
+          "target": "START-tridelt"
         }
       ],
       "infoHotspots": [],
@@ -444,7 +444,7 @@
       "linkHotspots": [
         {
           "yaw": 1.290129653979779,
-          "pitch": 0.0000753293297837132,
+          "pitch": 7.53293297837132e-05,
           "rotation": 0,
           "target": "7-midway_9"
         },
@@ -458,19 +458,19 @@
           "yaw": -2.9389608020707527,
           "pitch": 0.07488540464801297,
           "rotation": 0,
-          "target": "4-v0640186"
+          "target": "START-aphi"
         },
         {
           "yaw": -0.4489290820590828,
           "pitch": 0.0038550370283356727,
           "rotation": 0,
-          "target": "64-mama"
+          "target": "START-swe"
         },
         {
           "yaw": 0.3325785153525196,
           "pitch": -0.06231888393087637,
           "rotation": 0,
-          "target": "65-childish"
+          "target": "START-menasa-spirit"
         }
       ],
       "infoHotspots": [],
@@ -490,12 +490,12 @@
           "pitch": 0.05111721801371516,
           "fov": 1.4171390229739944
         },
-        "64-mama": {
+        "START-swe": {
           "yaw": -3.3831694287661254,
           "pitch": 0.05111721801371516,
           "fov": 1.4171390229739944
         },
-        "65-childish": {
+        "START-menasa-spirit": {
           "yaw": -3.3831694287661254,
           "pitch": 0.05111721801371516,
           "fov": 1.4171390229739944
@@ -542,7 +542,7 @@
           "yaw": 3.0526745237727564,
           "pitch": 0.05948787549120382,
           "rotation": 0,
-          "target": "0-audio-formats"
+          "target": "START-sigep"
         }
       ],
       "infoHotspots": [],
@@ -605,7 +605,7 @@
           "yaw": 3.08527283824265,
           "pitch": 0.08086998696015968,
           "rotation": 0,
-          "target": "59-british"
+          "target": "START-delta-gamma"
         }
       ],
       "infoHotspots": [],
@@ -620,7 +620,7 @@
           "pitch": 0.09539337165487183,
           "fov": 1.4171390229739944
         },
-        "43-toby-fox_hadestown": {
+        "START-suse-tpeg-asce": {
           "yaw": -3.7883123727866703,
           "pitch": 0.09539337165487183,
           "fov": 1.4171390229739944
@@ -673,13 +673,13 @@
           "yaw": 2.6202590971785984,
           "pitch": 0.05358547935709623,
           "rotation": 0,
-          "target": "55-asa"
+          "target": "START-asa"
         },
         {
           "yaw": -1.3263165030410171,
           "pitch": 0.09793223838082277,
           "rotation": 0,
-          "target": "66-toby-fox"
+          "target": "START-kgb-roboclub"
         }
       ],
       "infoHotspots": [],
@@ -689,12 +689,12 @@
           "pitch": 0.09280011693447321,
           "fov": 1.4171390229739944
         },
-        "55-asa": {
+        "START-asa": {
           "yaw": -0.9334008888782164,
           "pitch": 0.09280011693447321,
           "fov": 1.4171390229739944
         },
-        "66-toby-fox": {
+        "START-kgb-roboclub": {
           "yaw": -4.0750008888782165,
           "pitch": 0.09280011693447321,
           "fov": 1.4171390229739944
@@ -747,7 +747,7 @@
           "yaw": 2.392749112026679,
           "pitch": 0.03452673621192659,
           "rotation": 0,
-          "target": "0-beauty"
+          "target": "START-sdc"
         },
         {
           "yaw": 1.9765559037271085,
@@ -1630,7 +1630,6 @@
           "rotation": 0,
           "target": "23-2010_coco_back"
         }
-
       ],
       "infoHotspots": [],
       "entryViewParameters": {
@@ -2281,7 +2280,7 @@
           "yaw": 1.021759296531581,
           "pitch": 0.3668458052381105,
           "fov": 1.4171390229739944
-        },        
+        },
         "3-v2350422": {
           "yaw": 0.626595359892388,
           "pitch": 0.2861166251302958,
@@ -2295,7 +2294,7 @@
       }
     },
     {
-      "id": "43-toby-fox_hadestown",
+      "id": "START-suse-tpeg-asce",
       "name": "Toby Fox_Hadestown",
       "levels": [
         {
@@ -2419,7 +2418,7 @@
           "yaw": -0.24300648808442915,
           "pitch": 0.34217445957424175,
           "rotation": 0,
-          "target": "43-toby-fox_hadestown"
+          "target": "START-suse-tpeg-asce"
         },
         {
           "yaw": -1.904505184650338,
@@ -2866,7 +2865,7 @@
       "infoHotspots": []
     },
     {
-      "id": "55-asa",
+      "id": "START-asa",
       "name": "ASA",
       "levels": [
         {
@@ -2905,7 +2904,7 @@
       "infoHotspots": []
     },
     {
-      "id": "56-2010",
+      "id": "START-tridelt",
       "name": "2010",
       "levels": [
         {
@@ -2976,7 +2975,7 @@
       "infoHotspots": []
     },
     {
-      "id": "58-sea-shantie",
+      "id": "START-fringe",
       "name": "sea shantie",
       "levels": [
         {
@@ -3015,7 +3014,7 @@
       "infoHotspots": []
     },
     {
-      "id": "59-british",
+      "id": "START-delta-gamma",
       "name": "british",
       "levels": [
         {
@@ -3049,12 +3048,12 @@
           "pitch": 0.24172215822641974,
           "rotation": 0,
           "target": "0-british"
-        } 
+        }
       ],
       "infoHotspots": []
     },
     {
-      "id": "60-csa",
+      "id": "START-csa",
       "name": "CSA",
       "levels": [
         {
@@ -3093,7 +3092,7 @@
       "infoHotspots": []
     },
     {
-      "id": "61-wicked",
+      "id": "START-achio",
       "name": "wicked",
       "levels": [
         {
@@ -3197,7 +3196,7 @@
       "infoHotspots": []
     },
     {
-      "id": "64-mama",
+      "id": "START-swe",
       "name": "mama",
       "levels": [
         {
@@ -3236,7 +3235,7 @@
       "infoHotspots": []
     },
     {
-      "id": "65-childish",
+      "id": "START-menasa-spirit",
       "name": "childish",
       "levels": [
         {
@@ -3267,7 +3266,7 @@
         },
         {
           "yaw": 3.068116251875831,
-          "pitch": 0.508113187751487061,
+          "pitch": 0.5081131877514871,
           "rotation": 0,
           "target": "0-v2290404"
         }
@@ -3275,7 +3274,7 @@
       "infoHotspots": []
     },
     {
-      "id": "66-toby-fox",
+      "id": "START-kgb-roboclub",
       "name": "toby fox",
       "levels": [
         {
@@ -3305,7 +3304,7 @@
           "target": "9-midway_11"
         },
         {
-          "yaw": 3.15596089414418302,
+          "yaw": 3.155960894144183,
           "pitch": 0.2104626804866907,
           "rotation": 0,
           "target": "0-v2390434"
@@ -3347,7 +3346,7 @@
       "infoHotspots": []
     },
     {
-      "id": "0-v1780251",
+      "id": "START-kappa-alpha-theta",
       "name": "V1780251",
       "levels": [
         {
@@ -3417,7 +3416,7 @@
           "yaw": 3.05903928008642,
           "pitch": 0.3578840626586608,
           "rotation": 0,
-          "target": "0-v1780251"
+          "target": "START-kappa-alpha-theta"
         },
         {
           "yaw": 1.5455525061729745,
@@ -3674,7 +3673,7 @@
       "infoHotspots": []
     },
     {
-      "id": "0-v1870278",
+      "id": "START-phi-delta-theta",
       "name": "V1870278",
       "levels": [
         {
@@ -3750,7 +3749,7 @@
           "yaw": -1.7236312632194597,
           "pitch": 0.5742189491878378,
           "rotation": 0,
-          "target": "0-v1870278",
+          "target": "START-phi-delta-theta",
           "targetView": {
             "yaw": -1.57,
             "pitch": 0.0,
@@ -4476,7 +4475,7 @@
           "yaw": -2.2614442353143556,
           "pitch": 0.8309494400549351,
           "rotation": 0,
-          "target": "11-v2210380"
+          "target": "START-alpha-epsilon-pi"
         }
       ],
       "infoHotspots": []
@@ -4514,7 +4513,7 @@
           "yaw": 2.587283848021322,
           "pitch": 0.7833571632161984,
           "rotation": 1.5707963267948966,
-          "target": "11-v2210380",
+          "target": "START-alpha-epsilon-pi",
           "targetView": {
             "yaw": 3.14,
             "pitch": 0.0,
@@ -4525,7 +4524,7 @@
       "infoHotspots": []
     },
     {
-      "id": "11-v2210380",
+      "id": "START-alpha-epsilon-pi",
       "name": "V2210380",
       "levels": [
         {
@@ -4615,10 +4614,10 @@
           "target": "1-v2240389"
         },
         {
-          "yaw": -2.96035238780658965,
+          "yaw": -2.96035238780659,
           "pitch": 0.40011535676791077,
           "rotation": 0,
-          "target": "64-mama"
+          "target": "START-swe"
         }
       ],
       "infoHotspots": []
@@ -4711,7 +4710,7 @@
           "yaw": 0.4809115705941995,
           "pitch": 0.29518558418044805,
           "rotation": 0,
-          "target": "65-childish"
+          "target": "START-menasa-spirit"
         }
       ],
       "infoHotspots": []
@@ -5050,7 +5049,7 @@
           "yaw": -0.2184984094115627,
           "pitch": 0.5280734089254935,
           "rotation": 0.7853981633974483,
-          "target": "66-toby-fox"
+          "target": "START-kgb-roboclub"
         }
       ],
       "infoHotspots": []
@@ -5099,7 +5098,7 @@
           "yaw": -0.1634572028794814,
           "pitch": 0.4787799832858397,
           "rotation": 0,
-          "target": "43-toby-fox_hadestown"
+          "target": "START-suse-tpeg-asce"
         }
       ],
       "infoHotspots": []
@@ -5141,7 +5140,7 @@
         },
         {
           "yaw": 2.29883744018953,
-          "pitch": 0.70319630385763112,
+          "pitch": 0.7031963038576311,
           "rotation": 0,
           "target": "48-frog_back"
         }
@@ -5577,7 +5576,7 @@
           "yaw": 0.6661983037424015,
           "pitch": 0.629618669123154,
           "rotation": 0,
-          "target": "11-v2070338"
+          "target": "START-kkg"
         },
         {
           "yaw": 1.8297806464627104,
@@ -5589,7 +5588,7 @@
       "infoHotspots": []
     },
     {
-      "id": "11-v2070338",
+      "id": "START-kkg",
       "name": "V2070338",
       "levels": [
         {
@@ -5627,7 +5626,7 @@
       "infoHotspots": []
     },
     {
-      "id": "0-tangled",
+      "id": "START-tsa-hksa",
       "name": "01 tangled",
       "levels": [
         {
@@ -5752,7 +5751,7 @@
           "yaw": -1.17,
           "pitch": 0.4737674906060434,
           "rotation": 0,
-          "target": "0-tangled",
+          "target": "START-tsa-hksa",
           "targetView": {
             "yaw": -1.37,
             "pitch": 0.0,
@@ -6285,7 +6284,7 @@
           "yaw": -3,
           "pitch": 0.3525834078853567,
           "rotation": 0,
-          "target": "61-wicked",
+          "target": "START-achio",
           "targetView": {
             "yaw": 1.5,
             "pitch": 0.0,
@@ -6334,7 +6333,7 @@
           "yaw": 0,
           "pitch": 0.3494574495602123,
           "rotation": 0,
-          "target": "58-sea-shantie"
+          "target": "START-fringe"
         }
       ],
       "infoHotspots": []
@@ -6622,7 +6621,7 @@
         {
           "yaw": -1.474217296975839,
           "pitch": 0.36501487718177295,
-          "target": "56-2010"
+          "target": "START-tridelt"
         }
       ],
       "infoHotspots": []
@@ -7057,7 +7056,7 @@
           "yaw": -2.381726203874166,
           "pitch": 0.6705854284558139,
           "rotation": 0,
-          "target": "4-v0640186",
+          "target": "START-aphi",
           "targetView": {
             "yaw": 0,
             "pitch": 0.0,
@@ -7068,7 +7067,7 @@
       "infoHotspots": []
     },
     {
-      "id": "4-v0640186",
+      "id": "START-aphi",
       "name": "V0640186",
       "levels": [
         {
@@ -7092,7 +7091,7 @@
       "faceSize": 1410,
       "initialViewParameters": {
         "yaw": 0.5435778608527269,
-        "pitch": -0.00009901168571779806,
+        "pitch": -9.901168571779806e-05,
         "fov": 1.4999635958426394
       },
       "linkHotspots": [
@@ -7116,7 +7115,7 @@
       "infoHotspots": []
     },
     {
-      "id": "0-audio-formats",
+      "id": "START-sigep",
       "name": "V0520150",
       "levels": [
         {
@@ -7192,7 +7191,7 @@
           "yaw": -2.9588716904387145,
           "pitch": 0.40959928289511005,
           "rotation": 0,
-          "target": "0-audio-formats",
+          "target": "START-sigep",
           "targetView": {
             "yaw": 3.14,
             "pitch": 0.0,
@@ -7737,7 +7736,7 @@
           "yaw": 0.7096130018088687,
           "pitch": 0.7045991555120654,
           "rotation": 0,
-          "target": "59-british"
+          "target": "START-delta-gamma"
         }
       ],
       "infoHotspots": []
@@ -8067,7 +8066,7 @@
           "target": "8-british"
         },
         {
-          "yaw": 2.7288419572252192,
+          "yaw": 2.728841957225219,
           "pitch": 0.4953949880859252,
           "target": "5-british",
           "targetView": {
@@ -8260,7 +8259,7 @@
           "pitch": 0.6398326645207142,
           "rotation": 0,
           "target": "10-british",
-           "targetView": {
+          "targetView": {
             "yaw": 3.14,
             "pitch": 0.0,
             "fov": 1.57
@@ -8461,7 +8460,7 @@
           "yaw": -0.06443084696380907,
           "pitch": 0.29177188650118424,
           "rotation": 0,
-          "target": "55-asa"
+          "target": "START-asa"
         }
       ],
       "infoHotspots": []
@@ -9191,7 +9190,7 @@
             "pitch": 0.0,
             "fov": 1.57
           }
-        }, 
+        },
         {
           "yaw": -2.953969399822032,
           "pitch": 0.3414741078788257,
@@ -9202,7 +9201,7 @@
       "infoHotspots": []
     },
     {
-      "id": "0-beauty",
+      "id": "START-sdc",
       "name": "V2430446",
       "levels": [
         {
@@ -9278,7 +9277,7 @@
           "yaw": -1.5081130135263443,
           "pitch": 0.41927406427067204,
           "rotation": 0,
-          "target": "0-beauty",
+          "target": "START-sdc",
           "targetView": {
             "yaw": -0.5,
             "pitch": 0.0,
@@ -9343,7 +9342,6 @@
       ],
       "infoHotspots": []
     }
-
   ],
   "name": "Booth 2026",
   "settings": {
@@ -9352,5 +9350,4 @@
     "fullscreenButton": false,
     "viewControlButtons": false
   }
-  
 }

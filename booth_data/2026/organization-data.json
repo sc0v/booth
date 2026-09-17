@@ -1,0 +1,78 @@
+{
+  "suse-tpeg-asce": {
+    "name": "Sustainable Earth / Theme Park Engineering Group / American Society of Civil Engineers",
+    "theme": "Hadestown"
+  },
+  "swe": {
+    "name": "Society of Women Engineers",
+    "theme": "Mama Mia"
+  },
+  "kgb-roboclub": {
+    "name": "KGB / Roboclub",
+    "theme": "Toby Fox"
+  },
+  "menasa-spirit": {
+    "name": "MENASA / Spirit",
+    "theme": "Childish Gambino"
+  },
+  "achio": {
+    "name": "Alpha Chi Omega",
+    "theme": "Wicked"
+  },
+  "aphi": {
+    "name": "Alpha Phi",
+    "theme": "Coco"
+  },
+  "tridelt": {
+    "name": "Delta Delta Delta",
+    "theme": "2010's"
+  },
+  "apo": {
+    "name": "Alpha Phi Omega",
+    "theme": "Jukebox Diner"
+  },
+  "csa": {
+    "name": "Chinese Students Association",
+    "theme": "Traditional Chinese Music"
+  },
+  "fringe": {
+    "name": "Fringe",
+    "theme": "Sea Shanties"
+  },
+  "sdc": {
+    "name": "Student Dormitory Council",
+    "theme": "Beauty and The Beast"
+  },
+  "tsa-hksa": {
+    "name": "Taiwanese Students Association / Hong Kong Students Association",
+    "theme": "Tangled"
+  },
+  "phi-delta-theta": {
+    "name": "Phi Delta Theta",
+    "theme": "Tame Impala"
+  },
+  "sigep": {
+    "name": "Sigma Phi Epsilon",
+    "theme": "Evolution of Audio Formats"
+  },
+  "delta-gamma": {
+    "name": "Delta Gamma",
+    "theme": "British Rock"
+  },
+  "kappa-alpha-theta": {
+    "name": "Kappa Alpha Theta",
+    "theme": "Eras Tour Taylor Swift"
+  },
+  "kkg": {
+    "name": "Kappa Kappa Gamma",
+    "theme": "Princess and the Frog"
+  },
+  "asa": {
+    "name": "Asian Student Association",
+    "theme": "K-Pop Demon Hunters"
+  },
+  "alpha-epsilon-pi": {
+    "name": "Alpha Epsilon Pi",
+    "theme": "Just Dance"
+  }
+}
